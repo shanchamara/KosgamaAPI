@@ -1,0 +1,14 @@
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\bin\Debug\net8.0\CommonStockManagementDatabase.deps.json
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\bin\Debug\net8.0\CommonStockManagementDatabase.runtimeconfig.json
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\bin\Debug\net8.0\CommonStockManagementDatabase.dll
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\bin\Debug\net8.0\CommonStockManagementDatabase.pdb
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.csproj.AssemblyReference.cache
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.AssemblyInfoInputs.cache
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.AssemblyInfo.cs
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.csproj.CoreCompileInputs.cache
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.dll
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\refint\CommonStockManagementDatabase.dll
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.pdb
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\CommonStockManagementDatabase.genruntimeconfig.cache
+E:\Devop Project\Complete Project\Common Stock Management\CommonStockManagementAPI\CommonStockManagementDatabase\obj\Debug\net8.0\ref\CommonStockManagementDatabase.dll
