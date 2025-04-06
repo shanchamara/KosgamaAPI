@@ -2311,9 +2311,6 @@ namespace CommonStockManagementDatabase.Migrations
                     b.Property<decimal?>("Qty")
                         .HasColumnType("decimal(65,30)");
 
-                    b.Property<decimal?>("Qtypiece")
-                        .HasColumnType("decimal(65,30)");
-
                     b.Property<decimal?>("ReturnQTY")
                         .HasColumnType("decimal(65,30)");
 
@@ -2534,8 +2531,6 @@ namespace CommonStockManagementDatabase.Migrations
                     b.ToTable((string)null);
 
                     b.ToView("VwAllPriceBackupHistory", (string)null);
-
-                    b.ToSqlQuery("SELECT \r\n                            Category.Name AS CategoryName,\r\n                            brand.Name AS BrandName,\r\n                            MAX(Backuptable.LastPurchasePrice) AS LastPurchasePrice,\r\n                            MAX(Backuptable.LastSellingPrice) AS LastSellingPrice,\r\n                            MAX(Backuptable.NewPurchasePrice) AS NewPurchasePrice,\r\n                            MAX(Backuptable.NewSellingPrice) AS NewSellingPrice,\r\n                            Backuptable.FkCategoryId,\r\n                            Backuptable.FkBrandId,\r\n                            Backuptable.PriceChangeBackupDate,\r\n                            MAX(Backuptable.PercentageLastPurchasePrice) AS PercentageLastPurchasePrice,\r\n                            MAX(Backuptable.PercentageSellingPrice) AS PercentageSellingPrice\r\n                        FROM TblPriceBackups AS Backuptable\r\n                        INNER JOIN TblItemCategories AS Category ON Backuptable.FkCategoryId = Category.Id\r\n                        INNER JOIN TblItemBrandNames AS brand ON Backuptable.FkBrandId = brand.Id\r\n                        GROUP BY \r\n                            Backuptable.PriceChangeBackupDate,\r\n                            Backuptable.FkCategoryId,\r\n                            Backuptable.FkBrandId,\r\n                            Category.Name,\r\n                            brand.Name\r\n                          ");
                 });
 
             modelBuilder.Entity("CommonStockManagementDatabase.Model.VwBestCustomers", b =>
@@ -2627,6 +2622,9 @@ namespace CommonStockManagementDatabase.Migrations
 
                     b.Property<DateTime>("Edit_Date")
                         .HasColumnType("datetime(6)");
+
+                    b.Property<int?>("FKLocationId")
+                        .HasColumnType("int");
 
                     b.Property<int>("GINId")
                         .HasColumnType("int");

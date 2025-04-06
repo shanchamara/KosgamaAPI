@@ -1,0 +1,4451 @@
+{
+  "Version": 1,
+  "Hash": "mHpGy6wuF5ClPuR4zCz0swk/QarC+6ZmvwLoLdcLjD0=",
+  "Source": "CommonStockManagementAPI",
+  "BasePath": "_content/CommonStockManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CommonStockManagementAPI\\wwwroot",
+      "Source": "CommonStockManagementAPI",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\854d8a9e-16e4-4347-a077-ce0a1c669d9e.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/854d8a9e-16e4-4347-a077-ce0a1c669d9e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccwci5mupb",
+      "Integrity": "RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\854d8a9e-16e4-4347-a077-ce0a1c669d9e.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\8586a42d-a39f-4971-8a9a-31200025224e.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/8586a42d-a39f-4971-8a9a-31200025224e#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccwci5mupb",
+      "Integrity": "RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\8586a42d-a39f-4971-8a9a-31200025224e.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/a65b6bd1-aa4f-43f0-9349-c08d3318d6c5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccwci5mupb",
+      "Integrity": "RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\1b39e764-ca7c-428b-9202-2d1ebff3e720.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/1b39e764-ca7c-428b-9202-2d1ebff3e720#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ptnai6cm4q",
+      "Integrity": "4/5Q04dITwWJ1utYITSrHQE6E6oz2pCd8TRZcCOZS80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\1b39e764-ca7c-428b-9202-2d1ebff3e720.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\496e70df-1da0-4ac5-96f9-61a1524d8c34.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/496e70df-1da0-4ac5-96f9-61a1524d8c34#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gmdine5i1s",
+      "Integrity": "iKsDoj+itrqi6mjMKRKmbCVJmyFic6KqrBDmKnoa4Qc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\496e70df-1da0-4ac5-96f9-61a1524d8c34.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\777cde5d-d47d-45c2-a911-dba48ec87117.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/777cde5d-d47d-45c2-a911-dba48ec87117#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lr6urp8d0s",
+      "Integrity": "P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\777cde5d-d47d-45c2-a911-dba48ec87117.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\a47e5848-106c-47b7-bd46-4cd5f7749bec.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/a47e5848-106c-47b7-bd46-4cd5f7749bec#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sbs5vn9umy",
+      "Integrity": "qGkkLV2QF2ElDGASwr9lTiRAeq01t7oz2wfei931Sos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\a47e5848-106c-47b7-bd46-4cd5f7749bec.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\a4caf1ad-1b09-4f39-8091-958ef37f4972.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/a4caf1ad-1b09-4f39-8091-958ef37f4972#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cx83io2ore",
+      "Integrity": "EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\a4caf1ad-1b09-4f39-8091-958ef37f4972.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\b2964ab1-40cc-4587-bf49-edf0352abfb4.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/b2964ab1-40cc-4587-bf49-edf0352abfb4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8sfgo33ftc",
+      "Integrity": "6KdSK7SVyoZzMAN4aR4xruFrCN+1qBvcPQyIZ+Bgy+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\b2964ab1-40cc-4587-bf49-edf0352abfb4.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\bbea370e-1eb8-4267-8098-533641931af2.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/bbea370e-1eb8-4267-8098-533641931af2#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0xdrg65hul",
+      "Integrity": "zAijpcsNEnSeLMCihqNuNGpqYyLmrbwaBfJJvAoDaTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\bbea370e-1eb8-4267-8098-533641931af2.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\c3df686d-1abc-47e0-a249-7e0d42369d24.webp",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/c3df686d-1abc-47e0-a249-7e0d42369d24#[.{fingerprint}]?.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0u3ochuurl",
+      "Integrity": "aPlHq5gHw/k+BjJiuwavdz26WPB4+HsifAXsbL3c/Bw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\c3df686d-1abc-47e0-a249-7e0d42369d24.webp"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\d10f4dd8-6cb8-452e-9236-a444a74109be.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/d10f4dd8-6cb8-452e-9236-a444a74109be#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lr6urp8d0s",
+      "Integrity": "P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\d10f4dd8-6cb8-452e-9236-a444a74109be.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\eea4cb84-c37d-48a8-8087-b97cdbf30527.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/eea4cb84-c37d-48a8-8087-b97cdbf30527#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k4fnw5keiu",
+      "Integrity": "rD+HIfU8t7bkLWSjZY9rqy/oFE0rItdduU57ePkK+Jg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\eea4cb84-c37d-48a8-8087-b97cdbf30527.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\Select.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Customer/Select#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dswf7oiup4",
+      "Integrity": "vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Customer\\Select.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0cjyu1kz3g",
+      "Integrity": "YBj394Aybgxbgd7pUSH3e0O/zn2rvtRpWynJh3y5yz4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y2qkpdivpc",
+      "Integrity": "9lHEPEXZu7ieBQ5UK/7seINA7H/MUBOqFA73eRHh1oY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dpho2obcgg",
+      "Integrity": "Xz5bO5+5O5b6924TLajCVHjtGuBfYWzWykVNva0swzk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0sc2wkg8d1",
+      "Integrity": "0GIx5R5/uvXF62sXyqLqSJBP3tM1JeSdeukQQSX/QMQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2nghqlsa33",
+      "Integrity": "fny5+GlFqRVQV2VHJ4F0bq2Gmp1/TQrxzxI7KTDbVBA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujie4exuy7",
+      "Integrity": "lp4P1qOrzeP2OCQslGqUJGMXZ/QPIheyP1CYmb1cBII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.sql",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Database/e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458#[.{fingerprint}]?.sql",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8pjaszzpy6",
+      "Integrity": "xAU5gRdRQqC5I/+bEgp9FZIsNDYLUjjiM9Q2pwWaTos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database\\e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.sql"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\33d0d45d-4626-4545-b70f-f2789cbbbd18.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Doctor/33d0d45d-4626-4545-b70f-f2789cbbbd18#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cx83io2ore",
+      "Integrity": "EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Doctor\\33d0d45d-4626-4545-b70f-f2789cbbbd18.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\b10b8538-88f9-4690-96ff-b07c6866b737.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Doctor/b10b8538-88f9-4690-96ff-b07c6866b737#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m7rg5giieb",
+      "Integrity": "wvJ/Lbiuk6Bj/VTYxuc67TrIvYWH3myj3PuQjZnw49Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Doctor\\b10b8538-88f9-4690-96ff-b07c6866b737.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\b530fba5-cca2-4dd3-8e04-88e08169e580.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Doctor/b530fba5-cca2-4dd3-8e04-88e08169e580#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "07oeyyge3f",
+      "Integrity": "/BuDKGdMj+EXKNEr4XJ5zj1h0ShvF2iFtHQvZ/BKYac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Doctor\\b530fba5-cca2-4dd3-8e04-88e08169e580.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\f73e1ab8-b68a-4d6f-8f3a-17250555de7c.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Doctor/f73e1ab8-b68a-4d6f-8f3a-17250555de7c#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "miqk44jktp",
+      "Integrity": "Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Doctor\\f73e1ab8-b68a-4d6f-8f3a-17250555de7c.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\Select.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Doctor/Select#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dswf7oiup4",
+      "Integrity": "vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Doctor\\Select.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\f0f5144d-fae9-46d2-a7bf-367552f18ad4.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/f0f5144d-fae9-46d2-a7bf-367552f18ad4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ccwci5mupb",
+      "Integrity": "RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f0f5144d-fae9-46d2-a7bf-367552f18ad4.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Select.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Select#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dswf7oiup4",
+      "Integrity": "vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Select.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "miqk44jktp",
+      "Integrity": "Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\14d70bf3-bb65-4cfa-83db-8c618faf1a39.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/14d70bf3-bb65-4cfa-83db-8c618faf1a39#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "86wvqu9qhp",
+      "Integrity": "YKlQlNVVIxqkJx8LMV9sptnHa2t1mzc8fFOLvqbDFXo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\14d70bf3-bb65-4cfa-83db-8c618faf1a39.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\217784ed-ea02-484e-827d-6434b00e95f5.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/217784ed-ea02-484e-827d-6434b00e95f5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "plu6uw8l7j",
+      "Integrity": "bf7Ayv42m68oY1qLYsUPeCbp+HSdPfU+B1SbgRRJv8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\217784ed-ea02-484e-827d-6434b00e95f5.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\4d71dca0-87bd-4e77-a825-1c2565ee3b2f.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/4d71dca0-87bd-4e77-a825-1c2565ee3b2f#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c92xm88de5",
+      "Integrity": "sD+ESDqopvQ3s2p3ycRPUCA/WqNr4T1lD/F2o6bXA0Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\4d71dca0-87bd-4e77-a825-1c2565ee3b2f.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\5a9a2934-49c2-4178-97d8-5c79e7717d07.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/5a9a2934-49c2-4178-97d8-5c79e7717d07#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwa2k89x3t",
+      "Integrity": "qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\5a9a2934-49c2-4178-97d8-5c79e7717d07.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\7b114326-9899-401b-812c-2db5a877333a.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/7b114326-9899-401b-812c-2db5a877333a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbcydmx0qn",
+      "Integrity": "4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\7b114326-9899-401b-812c-2db5a877333a.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\90e2aeca-3822-42b6-8e97-7ee1abab8bc8.jpeg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/90e2aeca-3822-42b6-8e97-7ee1abab8bc8#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z7kv5hvhtu",
+      "Integrity": "H7GVuRFQrX9opVIEkIUucoipt98+5KvMRs8jTIGZvy0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\90e2aeca-3822-42b6-8e97-7ee1abab8bc8.jpeg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\93922276-163c-4193-9317-40ce69871d08.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/93922276-163c-4193-9317-40ce69871d08#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67ec1a108l",
+      "Integrity": "4uuXcAR0XONes4/JzdCDewr8Mn+KumsSKth3fzk1tfk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\93922276-163c-4193-9317-40ce69871d08.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7r9c6z6r1e",
+      "Integrity": "nfFUeUckNljkRS3S4vJ3PKxLRzWmNhGG8P5YRZgxaoI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\cbd6149e-e29b-43c2-8166-5e2a183630b3.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/cbd6149e-e29b-43c2-8166-5e2a183630b3#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bwa2k89x3t",
+      "Integrity": "qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\cbd6149e-e29b-43c2-8166-5e2a183630b3.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\d224365e-3d59-41b4-a030-bade9edfadf5.JPG",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/d224365e-3d59-41b4-a030-bade9edfadf5#[.{fingerprint}]?.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h845g3e1d0",
+      "Integrity": "Tz9UF94bkI6+GwZcx2KHLf78KU4XlFSkASmn5AwZTPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\d224365e-3d59-41b4-a030-bade9edfadf5.JPG"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\Select.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/Supplier/Select#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dswf7oiup4",
+      "Integrity": "vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Supplier\\Select.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\13defffa-2b04-4e2a-9599-1003610bdabf.jpg",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/User/13defffa-2b04-4e2a-9599-1003610bdabf#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0q6yq4svze",
+      "Integrity": "iMB3gWZ5ygg+Fe17UwAoenZtgIDU7NYFRiWA8WqO+O4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\User\\13defffa-2b04-4e2a-9599-1003610bdabf.jpg"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\6bbb103d-bc64-406e-a53d-87017444b618.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/User/6bbb103d-bc64-406e-a53d-87017444b618#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mbcydmx0qn",
+      "Integrity": "4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\User\\6bbb103d-bc64-406e-a53d-87017444b618.png"
+    },
+    {
+      "Identity": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\Select.png",
+      "SourceId": "CommonStockManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\",
+      "BasePath": "_content/CommonStockManagementAPI",
+      "RelativePath": "uploads/User/Select#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dswf7oiup4",
+      "Integrity": "vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\User\\Select.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/854d8a9e-16e4-4347-a077-ce0a1c669d9e.ccwci5mupb.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\854d8a9e-16e4-4347-a077-ce0a1c669d9e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccwci5mupb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/854d8a9e-16e4-4347-a077-ce0a1c669d9e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/854d8a9e-16e4-4347-a077-ce0a1c669d9e.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\854d8a9e-16e4-4347-a077-ce0a1c669d9e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8586a42d-a39f-4971-8a9a-31200025224e.ccwci5mupb.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\8586a42d-a39f-4971-8a9a-31200025224e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccwci5mupb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/8586a42d-a39f-4971-8a9a-31200025224e.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/8586a42d-a39f-4971-8a9a-31200025224e.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\8586a42d-a39f-4971-8a9a-31200025224e.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.ccwci5mupb.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccwci5mupb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\a65b6bd1-aa4f-43f0-9349-c08d3318d6c5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/1b39e764-ca7c-428b-9202-2d1ebff3e720.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\1b39e764-ca7c-428b-9202-2d1ebff3e720.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/5Q04dITwWJ1utYITSrHQE6E6oz2pCd8TRZcCOZS80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/5Q04dITwWJ1utYITSrHQE6E6oz2pCd8TRZcCOZS80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/1b39e764-ca7c-428b-9202-2d1ebff3e720.ptnai6cm4q.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\1b39e764-ca7c-428b-9202-2d1ebff3e720.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263553"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4/5Q04dITwWJ1utYITSrHQE6E6oz2pCd8TRZcCOZS80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptnai6cm4q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/1b39e764-ca7c-428b-9202-2d1ebff3e720.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4/5Q04dITwWJ1utYITSrHQE6E6oz2pCd8TRZcCOZS80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/496e70df-1da0-4ac5-96f9-61a1524d8c34.gmdine5i1s.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\496e70df-1da0-4ac5-96f9-61a1524d8c34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iKsDoj+itrqi6mjMKRKmbCVJmyFic6KqrBDmKnoa4Qc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gmdine5i1s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/496e70df-1da0-4ac5-96f9-61a1524d8c34.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iKsDoj+itrqi6mjMKRKmbCVJmyFic6KqrBDmKnoa4Qc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/496e70df-1da0-4ac5-96f9-61a1524d8c34.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\496e70df-1da0-4ac5-96f9-61a1524d8c34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54066"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iKsDoj+itrqi6mjMKRKmbCVJmyFic6KqrBDmKnoa4Qc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iKsDoj+itrqi6mjMKRKmbCVJmyFic6KqrBDmKnoa4Qc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/777cde5d-d47d-45c2-a911-dba48ec87117.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\777cde5d-d47d-45c2-a911-dba48ec87117.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/777cde5d-d47d-45c2-a911-dba48ec87117.lr6urp8d0s.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\777cde5d-d47d-45c2-a911-dba48ec87117.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr6urp8d0s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/777cde5d-d47d-45c2-a911-dba48ec87117.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/a47e5848-106c-47b7-bd46-4cd5f7749bec.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\a47e5848-106c-47b7-bd46-4cd5f7749bec.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qGkkLV2QF2ElDGASwr9lTiRAeq01t7oz2wfei931Sos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qGkkLV2QF2ElDGASwr9lTiRAeq01t7oz2wfei931Sos="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/a47e5848-106c-47b7-bd46-4cd5f7749bec.sbs5vn9umy.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\a47e5848-106c-47b7-bd46-4cd5f7749bec.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101780"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qGkkLV2QF2ElDGASwr9lTiRAeq01t7oz2wfei931Sos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sbs5vn9umy"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/a47e5848-106c-47b7-bd46-4cd5f7749bec.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qGkkLV2QF2ElDGASwr9lTiRAeq01t7oz2wfei931Sos="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/a4caf1ad-1b09-4f39-8091-958ef37f4972.cx83io2ore.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\a4caf1ad-1b09-4f39-8091-958ef37f4972.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1877103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cx83io2ore"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/a4caf1ad-1b09-4f39-8091-958ef37f4972.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/a4caf1ad-1b09-4f39-8091-958ef37f4972.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\a4caf1ad-1b09-4f39-8091-958ef37f4972.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1877103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/b2964ab1-40cc-4587-bf49-edf0352abfb4.8sfgo33ftc.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\b2964ab1-40cc-4587-bf49-edf0352abfb4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6KdSK7SVyoZzMAN4aR4xruFrCN+1qBvcPQyIZ+Bgy+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8sfgo33ftc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/b2964ab1-40cc-4587-bf49-edf0352abfb4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6KdSK7SVyoZzMAN4aR4xruFrCN+1qBvcPQyIZ+Bgy+E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/b2964ab1-40cc-4587-bf49-edf0352abfb4.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\b2964ab1-40cc-4587-bf49-edf0352abfb4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "93018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6KdSK7SVyoZzMAN4aR4xruFrCN+1qBvcPQyIZ+Bgy+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6KdSK7SVyoZzMAN4aR4xruFrCN+1qBvcPQyIZ+Bgy+E="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/bbea370e-1eb8-4267-8098-533641931af2.0xdrg65hul.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\bbea370e-1eb8-4267-8098-533641931af2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zAijpcsNEnSeLMCihqNuNGpqYyLmrbwaBfJJvAoDaTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0xdrg65hul"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/bbea370e-1eb8-4267-8098-533641931af2.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zAijpcsNEnSeLMCihqNuNGpqYyLmrbwaBfJJvAoDaTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/bbea370e-1eb8-4267-8098-533641931af2.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\bbea370e-1eb8-4267-8098-533641931af2.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zAijpcsNEnSeLMCihqNuNGpqYyLmrbwaBfJJvAoDaTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zAijpcsNEnSeLMCihqNuNGpqYyLmrbwaBfJJvAoDaTY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/c3df686d-1abc-47e0-a249-7e0d42369d24.0u3ochuurl.webp",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\c3df686d-1abc-47e0-a249-7e0d42369d24.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aPlHq5gHw/k+BjJiuwavdz26WPB4+HsifAXsbL3c/Bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0u3ochuurl"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/c3df686d-1abc-47e0-a249-7e0d42369d24.webp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aPlHq5gHw/k+BjJiuwavdz26WPB4+HsifAXsbL3c/Bw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/c3df686d-1abc-47e0-a249-7e0d42369d24.webp",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\c3df686d-1abc-47e0-a249-7e0d42369d24.webp",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/webp"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aPlHq5gHw/k+BjJiuwavdz26WPB4+HsifAXsbL3c/Bw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aPlHq5gHw/k+BjJiuwavdz26WPB4+HsifAXsbL3c/Bw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/d10f4dd8-6cb8-452e-9236-a444a74109be.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\d10f4dd8-6cb8-452e-9236-a444a74109be.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/d10f4dd8-6cb8-452e-9236-a444a74109be.lr6urp8d0s.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\d10f4dd8-6cb8-452e-9236-a444a74109be.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "69076"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lr6urp8d0s"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/d10f4dd8-6cb8-452e-9236-a444a74109be.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P8NaJFekNjmJa/3Lx2Rjx04i2HUfMR//+xzMaQ3McDg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/eea4cb84-c37d-48a8-8087-b97cdbf30527.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\eea4cb84-c37d-48a8-8087-b97cdbf30527.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rD+HIfU8t7bkLWSjZY9rqy/oFE0rItdduU57ePkK+Jg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rD+HIfU8t7bkLWSjZY9rqy/oFE0rItdduU57ePkK+Jg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/eea4cb84-c37d-48a8-8087-b97cdbf30527.k4fnw5keiu.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\eea4cb84-c37d-48a8-8087-b97cdbf30527.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "96408"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rD+HIfU8t7bkLWSjZY9rqy/oFE0rItdduU57ePkK+Jg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k4fnw5keiu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/eea4cb84-c37d-48a8-8087-b97cdbf30527.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rD+HIfU8t7bkLWSjZY9rqy/oFE0rItdduU57ePkK+Jg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/Select.dswf7oiup4.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dswf7oiup4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Customer/Select.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Customer/Select.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Customer\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.0cjyu1kz3g.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YBj394Aybgxbgd7pUSH3e0O/zn2rvtRpWynJh3y5yz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:37:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0cjyu1kz3g"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YBj394Aybgxbgd7pUSH3e0O/zn2rvtRpWynJh3y5yz4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\05b2c176-34aa-4e13-8dfa-7a27706c92b0.backup_20250224000717.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YBj394Aybgxbgd7pUSH3e0O/zn2rvtRpWynJh3y5yz4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:37:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YBj394Aybgxbgd7pUSH3e0O/zn2rvtRpWynJh3y5yz4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9lHEPEXZu7ieBQ5UK/7seINA7H/MUBOqFA73eRHh1oY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 05:03:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9lHEPEXZu7ieBQ5UK/7seINA7H/MUBOqFA73eRHh1oY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.y2qkpdivpc.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "123887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9lHEPEXZu7ieBQ5UK/7seINA7H/MUBOqFA73eRHh1oY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 05:03:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y2qkpdivpc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/73b60e01-9b1e-4a96-8fae-b0286cb1ba7a.backup_20240520103237.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9lHEPEXZu7ieBQ5UK/7seINA7H/MUBOqFA73eRHh1oY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.dpho2obcgg.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xz5bO5+5O5b6924TLajCVHjtGuBfYWzWykVNva0swzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 15:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dpho2obcgg"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xz5bO5+5O5b6924TLajCVHjtGuBfYWzWykVNva0swzk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\b251bcf8-0e2a-48c8-a716-eb0b56775a8a.backup_20250303211855.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308369"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Xz5bO5+5O5b6924TLajCVHjtGuBfYWzWykVNva0swzk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 03 Mar 2025 15:48:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Xz5bO5+5O5b6924TLajCVHjtGuBfYWzWykVNva0swzk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.0sc2wkg8d1.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GIx5R5/uvXF62sXyqLqSJBP3tM1JeSdeukQQSX/QMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 05:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0sc2wkg8d1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GIx5R5/uvXF62sXyqLqSJBP3tM1JeSdeukQQSX/QMQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\b49e6e8a-c5cf-4a9f-a489-05ee2af523a4.backup_20240520104034.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124733"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0GIx5R5/uvXF62sXyqLqSJBP3tM1JeSdeukQQSX/QMQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 05:11:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0GIx5R5/uvXF62sXyqLqSJBP3tM1JeSdeukQQSX/QMQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.2nghqlsa33.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "624926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fny5+GlFqRVQV2VHJ4F0bq2Gmp1/TQrxzxI7KTDbVBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 05:07:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2nghqlsa33"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fny5+GlFqRVQV2VHJ4F0bq2Gmp1/TQrxzxI7KTDbVBA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\c13eeae9-4421-4a04-9bfe-85b78d47da03.backup_20250324103649.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "624926"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fny5+GlFqRVQV2VHJ4F0bq2Gmp1/TQrxzxI7KTDbVBA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Mar 2025 05:07:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fny5+GlFqRVQV2VHJ4F0bq2Gmp1/TQrxzxI7KTDbVBA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lp4P1qOrzeP2OCQslGqUJGMXZ/QPIheyP1CYmb1cBII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 15:26:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lp4P1qOrzeP2OCQslGqUJGMXZ/QPIheyP1CYmb1cBII="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.ujie4exuy7.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "380638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lp4P1qOrzeP2OCQslGqUJGMXZ/QPIheyP1CYmb1cBII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 15:26:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujie4exuy7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/dde91a65-925a-424a-86a1-4e056fb6fbff.backup_20250304205621.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lp4P1qOrzeP2OCQslGqUJGMXZ/QPIheyP1CYmb1cBII="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.8pjaszzpy6.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAU5gRdRQqC5I/+bEgp9FZIsNDYLUjjiM9Q2pwWaTos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8pjaszzpy6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database/e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.sql"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAU5gRdRQqC5I/+bEgp9FZIsNDYLUjjiM9Q2pwWaTos="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database/e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.sql",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Database\\e3be2bb4-31fd-4253-9f83-830923f30510.backup_20240520103458.sql",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "124400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xAU5gRdRQqC5I/+bEgp9FZIsNDYLUjjiM9Q2pwWaTos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 May 2024 05:05:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xAU5gRdRQqC5I/+bEgp9FZIsNDYLUjjiM9Q2pwWaTos="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/33d0d45d-4626-4545-b70f-f2789cbbbd18.cx83io2ore.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\33d0d45d-4626-4545-b70f-f2789cbbbd18.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1877103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cx83io2ore"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Doctor/33d0d45d-4626-4545-b70f-f2789cbbbd18.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/33d0d45d-4626-4545-b70f-f2789cbbbd18.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\33d0d45d-4626-4545-b70f-f2789cbbbd18.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1877103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EN4pnZA8Eh/+Lgxo5HUjGsK1spVOYEdFb+ie1K4xthE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/b10b8538-88f9-4690-96ff-b07c6866b737.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\b10b8538-88f9-4690-96ff-b07c6866b737.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1898457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvJ/Lbiuk6Bj/VTYxuc67TrIvYWH3myj3PuQjZnw49Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvJ/Lbiuk6Bj/VTYxuc67TrIvYWH3myj3PuQjZnw49Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/b10b8538-88f9-4690-96ff-b07c6866b737.m7rg5giieb.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\b10b8538-88f9-4690-96ff-b07c6866b737.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1898457"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvJ/Lbiuk6Bj/VTYxuc67TrIvYWH3myj3PuQjZnw49Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m7rg5giieb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Doctor/b10b8538-88f9-4690-96ff-b07c6866b737.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvJ/Lbiuk6Bj/VTYxuc67TrIvYWH3myj3PuQjZnw49Y="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/b530fba5-cca2-4dd3-8e04-88e08169e580.07oeyyge3f.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\b530fba5-cca2-4dd3-8e04-88e08169e580.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/BuDKGdMj+EXKNEr4XJ5zj1h0ShvF2iFtHQvZ/BKYac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "07oeyyge3f"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Doctor/b530fba5-cca2-4dd3-8e04-88e08169e580.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/BuDKGdMj+EXKNEr4XJ5zj1h0ShvF2iFtHQvZ/BKYac="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/b530fba5-cca2-4dd3-8e04-88e08169e580.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\b530fba5-cca2-4dd3-8e04-88e08169e580.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67519"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/BuDKGdMj+EXKNEr4XJ5zj1h0ShvF2iFtHQvZ/BKYac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/BuDKGdMj+EXKNEr4XJ5zj1h0ShvF2iFtHQvZ/BKYac="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/f73e1ab8-b68a-4d6f-8f3a-17250555de7c.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\f73e1ab8-b68a-4d6f-8f3a-17250555de7c.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1814865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/f73e1ab8-b68a-4d6f-8f3a-17250555de7c.miqk44jktp.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\f73e1ab8-b68a-4d6f-8f3a-17250555de7c.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1814865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "miqk44jktp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Doctor/f73e1ab8-b68a-4d6f-8f3a-17250555de7c.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/Select.dswf7oiup4.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dswf7oiup4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Doctor/Select.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Doctor/Select.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Doctor\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0f5144d-fae9-46d2-a7bf-367552f18ad4.ccwci5mupb.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\f0f5144d-fae9-46d2-a7bf-367552f18ad4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ccwci5mupb"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f0f5144d-fae9-46d2-a7bf-367552f18ad4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f0f5144d-fae9-46d2-a7bf-367552f18ad4.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\f0f5144d-fae9-46d2-a7bf-367552f18ad4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26566"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGt4GED2C2mQAiDyVYQhW0LSQyihVIeBLfw7OJSb0cY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Select.dswf7oiup4.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dswf7oiup4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Select.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Select.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1814865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.miqk44jktp.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1814865"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "miqk44jktp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/07ce7b33-2b5f-4b7a-b976-d6a6ab0978a8.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pgf8W60i9U0Lq7Unavy+LOy3EFe7vbjHEgy/BwtdSRc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/14d70bf3-bb65-4cfa-83db-8c618faf1a39.86wvqu9qhp.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\14d70bf3-bb65-4cfa-83db-8c618faf1a39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3858666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKlQlNVVIxqkJx8LMV9sptnHa2t1mzc8fFOLvqbDFXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "86wvqu9qhp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/14d70bf3-bb65-4cfa-83db-8c618faf1a39.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YKlQlNVVIxqkJx8LMV9sptnHa2t1mzc8fFOLvqbDFXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/14d70bf3-bb65-4cfa-83db-8c618faf1a39.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\14d70bf3-bb65-4cfa-83db-8c618faf1a39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3858666"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YKlQlNVVIxqkJx8LMV9sptnHa2t1mzc8fFOLvqbDFXo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YKlQlNVVIxqkJx8LMV9sptnHa2t1mzc8fFOLvqbDFXo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/217784ed-ea02-484e-827d-6434b00e95f5.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\217784ed-ea02-484e-827d-6434b00e95f5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1336063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bf7Ayv42m68oY1qLYsUPeCbp+HSdPfU+B1SbgRRJv8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 16:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bf7Ayv42m68oY1qLYsUPeCbp+HSdPfU+B1SbgRRJv8c="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/217784ed-ea02-484e-827d-6434b00e95f5.plu6uw8l7j.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\217784ed-ea02-484e-827d-6434b00e95f5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1336063"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bf7Ayv42m68oY1qLYsUPeCbp+HSdPfU+B1SbgRRJv8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 16:39:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plu6uw8l7j"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/217784ed-ea02-484e-827d-6434b00e95f5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bf7Ayv42m68oY1qLYsUPeCbp+HSdPfU+B1SbgRRJv8c="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/4d71dca0-87bd-4e77-a825-1c2565ee3b2f.c92xm88de5.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\4d71dca0-87bd-4e77-a825-1c2565ee3b2f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sD+ESDqopvQ3s2p3ycRPUCA/WqNr4T1lD/F2o6bXA0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Mar 2024 14:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c92xm88de5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/4d71dca0-87bd-4e77-a825-1c2565ee3b2f.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sD+ESDqopvQ3s2p3ycRPUCA/WqNr4T1lD/F2o6bXA0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/4d71dca0-87bd-4e77-a825-1c2565ee3b2f.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\4d71dca0-87bd-4e77-a825-1c2565ee3b2f.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2625479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sD+ESDqopvQ3s2p3ycRPUCA/WqNr4T1lD/F2o6bXA0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 07 Mar 2024 14:16:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sD+ESDqopvQ3s2p3ycRPUCA/WqNr4T1lD/F2o6bXA0Q="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/5a9a2934-49c2-4178-97d8-5c79e7717d07.bwa2k89x3t.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\5a9a2934-49c2-4178-97d8-5c79e7717d07.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1764018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwa2k89x3t"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/5a9a2934-49c2-4178-97d8-5c79e7717d07.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/5a9a2934-49c2-4178-97d8-5c79e7717d07.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\5a9a2934-49c2-4178-97d8-5c79e7717d07.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1764018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/7b114326-9899-401b-812c-2db5a877333a.mbcydmx0qn.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\7b114326-9899-401b-812c-2db5a877333a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbcydmx0qn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/7b114326-9899-401b-812c-2db5a877333a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/7b114326-9899-401b-812c-2db5a877333a.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\7b114326-9899-401b-812c-2db5a877333a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 24 Feb 2025 16:47:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/90e2aeca-3822-42b6-8e97-7ee1abab8bc8.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\90e2aeca-3822-42b6-8e97-7ee1abab8bc8.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H7GVuRFQrX9opVIEkIUucoipt98+5KvMRs8jTIGZvy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H7GVuRFQrX9opVIEkIUucoipt98+5KvMRs8jTIGZvy0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/90e2aeca-3822-42b6-8e97-7ee1abab8bc8.z7kv5hvhtu.jpeg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\90e2aeca-3822-42b6-8e97-7ee1abab8bc8.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "104095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H7GVuRFQrX9opVIEkIUucoipt98+5KvMRs8jTIGZvy0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z7kv5hvhtu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/90e2aeca-3822-42b6-8e97-7ee1abab8bc8.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H7GVuRFQrX9opVIEkIUucoipt98+5KvMRs8jTIGZvy0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/93922276-163c-4193-9317-40ce69871d08.67ec1a108l.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\93922276-163c-4193-9317-40ce69871d08.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1304608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4uuXcAR0XONes4/JzdCDewr8Mn+KumsSKth3fzk1tfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67ec1a108l"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/93922276-163c-4193-9317-40ce69871d08.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4uuXcAR0XONes4/JzdCDewr8Mn+KumsSKth3fzk1tfk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/93922276-163c-4193-9317-40ce69871d08.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\93922276-163c-4193-9317-40ce69871d08.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1304608"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4uuXcAR0XONes4/JzdCDewr8Mn+KumsSKth3fzk1tfk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4uuXcAR0XONes4/JzdCDewr8Mn+KumsSKth3fzk1tfk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.7r9c6z6r1e.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nfFUeUckNljkRS3S4vJ3PKxLRzWmNhGG8P5YRZgxaoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7r9c6z6r1e"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nfFUeUckNljkRS3S4vJ3PKxLRzWmNhGG8P5YRZgxaoI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\c385bc8f-6e25-49a9-9d9a-205a6b6e5ee6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "200056"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nfFUeUckNljkRS3S4vJ3PKxLRzWmNhGG8P5YRZgxaoI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nfFUeUckNljkRS3S4vJ3PKxLRzWmNhGG8P5YRZgxaoI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/cbd6149e-e29b-43c2-8166-5e2a183630b3.bwa2k89x3t.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\cbd6149e-e29b-43c2-8166-5e2a183630b3.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1764018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bwa2k89x3t"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/cbd6149e-e29b-43c2-8166-5e2a183630b3.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/cbd6149e-e29b-43c2-8166-5e2a183630b3.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\cbd6149e-e29b-43c2-8166-5e2a183630b3.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1764018"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qyeMwie5PTQ5fmSNqzhVWPRDmeyPxwjqRF8gf+gyu/g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/d224365e-3d59-41b4-a030-bade9edfadf5.h845g3e1d0.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\d224365e-3d59-41b4-a030-bade9edfadf5.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1500708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tz9UF94bkI6+GwZcx2KHLf78KU4XlFSkASmn5AwZTPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h845g3e1d0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/d224365e-3d59-41b4-a030-bade9edfadf5.JPG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tz9UF94bkI6+GwZcx2KHLf78KU4XlFSkASmn5AwZTPk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/d224365e-3d59-41b4-a030-bade9edfadf5.JPG",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\d224365e-3d59-41b4-a030-bade9edfadf5.JPG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1500708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tz9UF94bkI6+GwZcx2KHLf78KU4XlFSkASmn5AwZTPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tz9UF94bkI6+GwZcx2KHLf78KU4XlFSkASmn5AwZTPk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/Select.dswf7oiup4.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dswf7oiup4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Supplier/Select.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Supplier/Select.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\Supplier\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/User/13defffa-2b04-4e2a-9599-1003610bdabf.0q6yq4svze.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\13defffa-2b04-4e2a-9599-1003610bdabf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMB3gWZ5ygg+Fe17UwAoenZtgIDU7NYFRiWA8WqO+O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Mar 2024 13:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0q6yq4svze"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/User/13defffa-2b04-4e2a-9599-1003610bdabf.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMB3gWZ5ygg+Fe17UwAoenZtgIDU7NYFRiWA8WqO+O4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/User/13defffa-2b04-4e2a-9599-1003610bdabf.jpg",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\13defffa-2b04-4e2a-9599-1003610bdabf.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMB3gWZ5ygg+Fe17UwAoenZtgIDU7NYFRiWA8WqO+O4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 18 Mar 2024 13:57:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMB3gWZ5ygg+Fe17UwAoenZtgIDU7NYFRiWA8WqO+O4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/User/6bbb103d-bc64-406e-a53d-87017444b618.mbcydmx0qn.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\6bbb103d-bc64-406e-a53d-87017444b618.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:26:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mbcydmx0qn"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/User/6bbb103d-bc64-406e-a53d-87017444b618.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/User/6bbb103d-bc64-406e-a53d-87017444b618.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\6bbb103d-bc64-406e-a53d-87017444b618.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33462"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Feb 2025 18:26:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4sc2BbtG6dB8z4lIn72yT7O4MG1S+MkxJXjwAH8EMcA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/User/Select.dswf7oiup4.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dswf7oiup4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/User/Select.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/User/Select.png",
+      "AssetFile": "E:\\Devop Project\\Complete Project\\Common Stock Management\\CommonStockManagementAPI\\CommonStockManagementAPI\\wwwroot\\uploads\\User\\Select.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Feb 2024 14:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vbrRObo2iZAtW5VxLgb/fuht78kv+4tHmFJESx5Knpc="
+        }
+      ]
+    }
+  ]
+}

@@ -292,7 +292,7 @@ namespace CommonStockManagementServices.Services
         }
 
 
-        public async Task<PaginationViewStockMain> GetAllPaginationWithOutPagination(int page, int pagecount, string searchTerm, string sort = null, string order = null)
+        public async Task<PaginationViewStockMain> GetAllPaginationWithOutPagination(int page, int pagecount, string searchTerm, string sort = null, string order = null, int locationId = 0)
         {
             var cacheKey = $"{nameof(PaginationViewStockMain.IQueryData1)}";
             // Check if the result is already in the cache
@@ -319,7 +319,7 @@ namespace CommonStockManagementServices.Services
                 var pagedData1 = filteredData1
                        .Select(a => new ViewStockMainModel
                        {
-
+                           LocationId = a.LocationId,
                            ID = a.ID,
                            ItemCode = a.ItemCode,
                            LastPurchasePrice = a.LastPurchasePrice,
@@ -339,7 +339,8 @@ namespace CommonStockManagementServices.Services
                            FkUnitId = a.FkUnitId,
                            ImageUrl = a.ImageUrl,
                            BalanceQty = a.BalanceQty,
-                       })
+                       }).
+                       Where(d => d.LocationId.Equals(locationId))
                        .ToList();
 
                 // Prepare the pagination response
@@ -355,7 +356,6 @@ namespace CommonStockManagementServices.Services
             else
             {
                 query = (from a in _context.VWAllActiveANDAvailableItemList //VWAllActiveANDAvailableItemList
-                         where a.LocationId == 1
                          orderby a.Id descending
                          select new ViewStockMainModel()
                          {
@@ -378,6 +378,7 @@ namespace CommonStockManagementServices.Services
                              FkUnitId = a.FkUnitId,
                              ImageUrl = a.ImageUrl,
                              BalanceQty = a.BalanceQty,
+                             LocationId = a.LocationId
                          }).ToList().AsQueryable();
             }
 
@@ -417,6 +418,7 @@ namespace CommonStockManagementServices.Services
                     ImageUrl = a.ImageUrl,
                     BalanceQty = a.BalanceQty,
                 })
+                .Where(d => d.LocationId.Equals(locationId))
                 .ToList();
 
             // Prepare the pagination response

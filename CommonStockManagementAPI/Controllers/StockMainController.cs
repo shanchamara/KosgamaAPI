@@ -85,11 +85,11 @@ namespace CommonStockManagementAPI.Controllers
         [HttpGet]
         [Route(API_ROUTE_NAME + "/GetAllWithOutPagination")]
         //[Authorize(Roles = "Administrator")]
-        public async Task<IActionResult> GetAllWithOutPagination([FromQuery] int page = 1, [FromQuery] int items_per_page = 10, [FromQuery] string search = null, string sort = null, string order = null)
+        public async Task<IActionResult> GetAllWithOutPagination([FromQuery] int page = 1, [FromQuery] int items_per_page = 10, [FromQuery] string search = null, string sort = null, string order = null, int locationId = 0)
         {
             try
             {
-                var Data = await _stockMainService.GetAllPaginationWithOutPagination(page, items_per_page, search, sort, order);
+                var Data = await _stockMainService.GetAllPaginationWithOutPagination(page, items_per_page, search, sort, order, locationId);
 
                 var paginationHelper = new PaginationHelper<ViewStockMainModel>(items_per_page, Data.Count);
                 var paginationInfo = paginationHelper.GetPaginationInfo(page);

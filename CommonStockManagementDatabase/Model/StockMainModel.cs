@@ -34,7 +34,7 @@ namespace CommonStockManagementDatabase.Model
         public int? FkBrandId { get; set; }
         public string BrandName { get; set; }
 
-       
+
         public string ImageUrl { get; set; }
         public bool IsDelete { get; set; } = false;
         public bool IsItemCode { get; set; } = false;
@@ -56,7 +56,10 @@ namespace CommonStockManagementDatabase.Model
     public class InsertStockMainModel : StockMainModel { }
     public class UpdateStockMainModel : StockMainModel { }
     public class DeleteStockMainModel : StockMainModel { }
-    public class ViewStockMainModel : StockMainModel { }
+    public class ViewStockMainModel : StockMainModel
+    {
+        public int LocationId { get; set; }
+    }
     public class PaginationViewStockMain
     {
         public int Count { get; set; }
